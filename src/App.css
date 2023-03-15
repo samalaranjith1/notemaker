@@ -1,0 +1,12 @@
+ body{
+  padding: 40px;
+ }
+
+.data{
+  display: flex;
+  flex-wrap: wrap;
+}
+.data-data{
+  margin: 20px;
+  background-color: greenyellow;
+}
